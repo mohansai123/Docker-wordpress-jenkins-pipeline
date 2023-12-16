@@ -1,1 +1,0 @@
-# Docker-wordpress-jenkins-pipeline
